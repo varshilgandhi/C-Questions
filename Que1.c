@@ -111,5 +111,4 @@ int main(){
 
 
 /// hiii
-
-//hello kem cho
+// bss karo abb
